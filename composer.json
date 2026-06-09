@@ -2,7 +2,6 @@
   "name": "kirbycode/media-hub",
   "description": "Centralized media library for Kirby CMS 5 — WordPress-style asset management with folder organisation, metadata, search, and a custom picker field.",
   "type": "kirby-plugin",
-  "version": "1.0.0",
   "license": "MIT",
   "authors": [
     {
@@ -25,6 +24,7 @@
     "source": "https://github.com/logitechshiv/kirby-media-hub"
   },
   "require": {
-    "getkirby/cms": "^5.0"
+    "getkirby/cms": "^5.0",
+    "getkirby/composer-installer": "^1.1"
   }
 }
