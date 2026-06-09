@@ -25,7 +25,6 @@
     "source": "https://github.com/logitechshiv/kirby-media-hub"
   },
   "require": {
-    "getkirby/cms": "^5.0",
-    "getkirby/composer-installer": "^1.1"
+    "getkirby/cms": "^5.0"
   }
 }
